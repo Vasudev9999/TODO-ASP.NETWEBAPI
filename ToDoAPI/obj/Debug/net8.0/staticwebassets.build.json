@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "Hash": "iPBm/U4EGUbstztdVFZNrcB94Xxl8gjez8oApE1dkjU=",
+  "Source": "ToDoAPI",
+  "BasePath": "_content/ToDoAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ToDoAPI\\wwwroot",
+      "Source": "ToDoAPI",
+      "ContentRoot": "C:\\Users\\pvasu\\OneDrive\\Desktop\\ToDo-.NET\\ToDoAPI\\wwwroot\\",
+      "BasePath": "_content/ToDoAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\pvasu\\OneDrive\\Desktop\\ToDo-.NET\\ToDoAPI\\wwwroot\\index.html",
+      "SourceId": "ToDoAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pvasu\\OneDrive\\Desktop\\ToDo-.NET\\ToDoAPI\\wwwroot\\",
+      "BasePath": "_content/ToDoAPI",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\pvasu\\OneDrive\\Desktop\\ToDo-.NET\\ToDoAPI\\wwwroot\\scripts.js",
+      "SourceId": "ToDoAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pvasu\\OneDrive\\Desktop\\ToDo-.NET\\ToDoAPI\\wwwroot\\",
+      "BasePath": "_content/ToDoAPI",
+      "RelativePath": "scripts.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\scripts.js"
+    },
+    {
+      "Identity": "C:\\Users\\pvasu\\OneDrive\\Desktop\\ToDo-.NET\\ToDoAPI\\wwwroot\\styles.css",
+      "SourceId": "ToDoAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pvasu\\OneDrive\\Desktop\\ToDo-.NET\\ToDoAPI\\wwwroot\\",
+      "BasePath": "_content/ToDoAPI",
+      "RelativePath": "styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\styles.css"
+    }
+  ]
+}
